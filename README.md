@@ -100,7 +100,7 @@ http://localhost/College-Placement-Management/
 
 ### Home Page
 
-(Add Screenshot Here)
+(screenshot/portalscreenshot.png)
 
 ### Admin Dashboard
 
@@ -151,7 +151,8 @@ http://localhost/College-Placement-Management/
 **Leena Vincit**
 
 - GitHub: https://github.com/Leenavincit
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: www.linkedin.com/in/leenavincit
+
 
 ---
 
