@@ -85,7 +85,7 @@ http://localhost/College-Placement-Management/
 
 ### Admin Dashboard
 
-(Add Screenshot Here)
+![image alt](https://github.com/Leenavincit/College-Placement-Management/blob/f865a5aa69c94bb6256083aa88dd202fd01a4422/Admin%20dashboard%20screenshot.png))
 
 ### Student Dashboard
 
