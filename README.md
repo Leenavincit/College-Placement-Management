@@ -89,7 +89,7 @@ http://localhost/College-Placement-Management/
 
 ### Student Dashboard
 
-(Add Screenshot Here)
+![image alt](https://github.com/Leenavincit/College-Placement-Management/blob/f5c266f06d00129400efdef9d444c46a3e9e7713/Student%20dashboard%20screenshot.png))
 
 ### Company Dashboard
 
