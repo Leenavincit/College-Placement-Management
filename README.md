@@ -95,9 +95,9 @@ http://localhost/College-Placement-Management/
 
 ![image alt](https://github.com/Leenavincit/College-Placement-Management/blob/5e73ad644b9399ccddaf6967dca3cdb55f7a494c/Company%20dashboard%20screenshot.png))
 
-### Job Posting Page
+### Admin Login Page
 
-(Add Screenshot Here)
+![image alt](https://github.com/Leenavincit/College-Placement-Management/blob/0dda45dad9e1c8defeccf84efce177006a45198f/Admin%20login%20%20screenshot.png))
 
 ---
 
