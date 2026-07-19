@@ -93,7 +93,7 @@ http://localhost/College-Placement-Management/
 
 ### Company Dashboard
 
-(Add Screenshot Here)
+([Add Screenshot Here](https://github.com/Leenavincit/College-Placement-Management/blob/5e73ad644b9399ccddaf6967dca3cdb55f7a494c/Company%20dashboard%20screenshot.png))
 
 ### Job Posting Page
 
