@@ -54,25 +54,6 @@ The **College Placement Management System** is a web-based application developed
 - Visual Studio Code
 - Git & GitHub
 
----
-
-## 📂 Project Structure
-
-```text
-College-Placement-Management/
-├── admin/
-├── company/
-├── student/
-├── css/
-├── js/
-├── images/
-├── database/
-├── screenshots/
-├── index.php
-└── README.md
-```
-
----
 
 ## 🚀 Installation
 
@@ -100,7 +81,7 @@ http://localhost/College-Placement-Management/
 
 ### Home Page
 
-(screenshot/portalscreenshot.png)
+![image alt](https://github.com/Leenavincit/College-Placement-Management/blob/4b8659a1d7a9e49107fc3e0eaa8fc25159bfb1e2/Portal%20Screenshot%20.png)
 
 ### Admin Dashboard
 
