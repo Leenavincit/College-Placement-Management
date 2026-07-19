@@ -1,0 +1,81 @@
+body{
+font-family:Arial;
+background:#e5edf6;
+margin:0;
+text-align:center;
+}
+
+/* HEADER */
+
+.header{
+background:white;
+padding:20px;
+}
+
+.logo{
+width:80px;
+}
+
+.header h1{
+color:#2563eb;
+font-size:22px;
+}
+
+.header h2{
+color:#444;
+font-size:18px;
+}
+
+/* TITLE */
+
+.title{
+margin-top:40px;
+}
+
+/* CARDS */
+
+.card-container{
+display:flex;
+justify-content:center;
+gap:40px;
+margin-top:40px;
+}
+
+.card{
+background:white;
+width:260px;
+padding:30px;
+border-radius:10px;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+.icon{
+font-size:40px;
+margin-bottom:10px;
+}
+
+.card p{
+color:#555;
+margin-bottom:20px;
+}
+
+.btn{
+display:block;
+padding:12px;
+border-radius:8px;
+color:white;
+text-decoration:none;
+font-weight:bold;
+}
+
+.admin{
+background:#2563eb;
+}
+
+.student{
+background:#16a34a;
+}
+
+.company{
+background:#9333ea;
+}

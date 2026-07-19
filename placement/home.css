@@ -1,0 +1,36 @@
+/* NAVBAR */
+
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px 40px;
+background:#2563eb;
+color:white;
+}
+
+.logo-section{
+display:flex;
+align-items:center;
+}
+
+.logo{
+width:50px;
+margin-right:10px;
+}
+
+.college-text h2{
+font-size:18px;
+margin:0;
+}
+
+.college-text p{
+font-size:12px;
+margin:0;
+}
+
+.menu a{
+color:white;
+text-decoration:none;
+margin-left:20px;
+}
